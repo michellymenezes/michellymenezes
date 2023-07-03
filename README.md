@@ -2,8 +2,6 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/-michellymenezes-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michellymenezes/)](https://www.linkedin.com/in/michellymenezes/)
 
-![Martha's github stats](https://github-readme-stats.vercel.app/api?username=michellymenezes&count_private=true&show_icons=true&theme=onedark&hide=stars) 
-
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michellymenezes&layout=compact&count_private=true)](https://github.com/michellymenezes/github-readme-stats)
 -->
